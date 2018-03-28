@@ -33,12 +33,12 @@ To add new posts, simply add a file in the content/post directory that follows t
     </item>
     
     <item>
-      <title>Archive</title>
+      <title>VIDEO</title>
       <link>https://pribylmatous.github.io/hugo-start/post/embended-article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pribylmatous.github.io/hugo-start/post/embended-article/</guid>
-      <description> How to survive this shit hole subject - listen to this bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla  </description>
+      <description> </description>
     </item>
     
   </channel>

@@ -22,10 +22,6 @@
   </url>
   
   <url>
-    <loc>https://pribylmatous.github.io/hugo-start/post/embended-article/</loc>
-  </url>
-  
-  <url>
     <loc>https://pribylmatous.github.io/hugo-start/tags/beatles/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -69,6 +65,10 @@
     <loc>https://pribylmatous.github.io/hugo-start/tags/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pribylmatous.github.io/hugo-start/post/embended-article/</loc>
   </url>
   
 </urlset>
