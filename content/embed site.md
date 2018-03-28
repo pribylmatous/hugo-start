@@ -1,6 +1,10 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bOifyu0h5_w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+---
+title: Video Kapitán Demo
 
-<!--videoklip Kapitán Demo - Český humor je uplně v p***, stejně tak jako tento předmět :)-->
+---
+
+[Youtube]: https://www.youtube.com/embed/bOifyu0h5_w
+
 
 
 
