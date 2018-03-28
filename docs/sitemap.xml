@@ -50,6 +50,10 @@
   </url>
   
   <url>
+    <loc>https://pribylmatous.github.io/hugo-start/post/new-post/</loc>
+  </url>
+  
+  <url>
     <loc>https://pribylmatous.github.io/hugo-start/tags/hugo/</loc>
     <lastmod>2018-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
