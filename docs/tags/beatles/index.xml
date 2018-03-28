@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beatles on Grafický a uživatelský design Informačních služeb</title>
-    <link>http://jan-martinek.github.io/hugo-start/tags/beatles/</link>
+    <link>https://pribylmatous.github.io/hugo-start/tags/beatles/</link>
     <description>Recent content in Beatles on Grafický a uživatelský design Informačních služeb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://jan-martinek.github.io/hugo-start/tags/beatles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pribylmatous.github.io/hugo-start/tags/beatles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>All albums of The Beatles</title>
-      <link>http://jan-martinek.github.io/hugo-start/post/another-post/</link>
+      <link>https://pribylmatous.github.io/hugo-start/post/another-post/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://jan-martinek.github.io/hugo-start/post/another-post/</guid>
+      <guid>https://pribylmatous.github.io/hugo-start/post/another-post/</guid>
       <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
